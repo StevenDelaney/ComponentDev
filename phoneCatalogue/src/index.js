@@ -1,9 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+    import React from 'react';
+    import ReactDOM from 'react-dom';
+    import PhoneCatalogueApp from './App';
+    import '../node_modules/bootstrap/dist/css/bootstrap.css';
+    import Phones from  './Data';
 
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+    ReactDOM.render(
+      <PhoneCatalogueApp phones={Phones}/>,
+      document.getElementById('root')
+    );
