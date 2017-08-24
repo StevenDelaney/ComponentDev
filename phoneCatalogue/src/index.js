@@ -9,7 +9,7 @@
       render : function() {
         return (
           <div>
-            <h1>Phone Catalogue </h1>
+            <h1>Test </h1>
             {this.props.children}
           </div>
         )
