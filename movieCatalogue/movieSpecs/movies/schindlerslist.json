@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "93%"
+    }, 
+    "availability": [
+        "Steven Speilberg"
+    ], 
+    "battery": { 
+        "talkTime": "Ralph Fiennes, Ben Kingsley", 
+        "type": "Liam Neeson"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "Germany"
+    }, 
+    "connectivity": { 
+        "cell": "Thomas Keneally"
+    }, 
+    "description": "Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.", 
+    "display": { 
+        "screenSize": "Biography, Drama, History"
+    },  
+    "id": "schindlerslist", 
+    "images": [
+        "img/movies/schindlerslist.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "Schindlers List", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

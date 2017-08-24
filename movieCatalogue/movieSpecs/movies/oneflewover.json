@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "80%"
+    }, 
+    "availability": [
+        "Milos Forman"
+    ], 
+    "battery": { 
+        "talkTime": "Louis Fletcher, Michael Berryman", 
+        "type": "Jack Nicholson"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Laurence Hauben"
+    }, 
+    "description": "McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse.", 
+    "display": { 
+        "screenSize": "Drama"
+    },  
+    "id": "oneflewoverthecuckoosnest", 
+    "images": [
+        "img/movies/cuckoo.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "One Flew Over the Cuckoo's Nest", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

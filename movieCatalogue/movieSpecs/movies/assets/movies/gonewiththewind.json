@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "97%"
+    }, 
+    "availability": [
+        "Victor Fleming"
+    ], 
+    "battery": { 
+        "talkTime": "Vivien Leigh, Thomas Mitchell", 
+        "type": "Clark Gable"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Margaret Mitchell"
+    }, 
+    "description": "Scarlett is a woman who can deal with a nation at war, Atlanta burning, the Union Army carrying off everything from her beloved Tara, the carpetbaggers who arrive after the war. Scarlett is beautiful. She has vitality. But Ashley, the man she has wanted for so long, is going to marry his placid cousin, Melanie. Mammy warns Scarlett to behave herself at the party at Twelve Oaks. There is a new man there that day, the day the Civil War begins. Rhett Butler. Scarlett does not know he is in the room when she pleads with Ashley to choose her instead of Melanie.", 
+    "display": { 
+        "screenSize": "Drama, Histoy, Romance"
+    },  
+    "id": "gonewiththewind", 
+    "images": [
+        "img/movies/gonewiththewind.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "Gone With the Wind", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

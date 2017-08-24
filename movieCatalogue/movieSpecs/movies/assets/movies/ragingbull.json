@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "92%"
+    }, 
+    "availability": [
+        "Martin Scorsese"
+    ], 
+    "battery": { 
+        "talkTime": "Joe Pesci, Cathy Moriarty", 
+        "type": "Robert DeNiro"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Jake LaMotta"
+    }, 
+    "description": "Long Movie Detail", 
+    "display": { 
+        "screenSize": "Biography, Drama, Sport"
+    },  
+    "id": "ragingbull", 
+    "images": [
+        "img/movies/ragingbull.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "Raging Bull", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

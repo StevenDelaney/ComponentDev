@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "100%"
+    }, 
+    "availability": [
+        "Victor Fleming"
+    ], 
+    "battery": { 
+        "talkTime": "Frank Morgan, Ray Bolger", 
+        "type": "Judy Garland"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Noel Langly"
+    }, 
+    "description": "In this charming film based on the popular L. Frank Baum stories, Dorothy and her dog Toto are caught in a tornado's path and somehow end up in the land of Oz. Here she meets some memorable friends and foes in her journey to meet the Wizard of Oz who everyone says can help her return home and possibly grant her new friends their goals of a brain, heart and courage.", 
+    "display": { 
+        "screenSize": "Adventure, Family, Fantasy"
+    },  
+    "id": "thwizardofoz", 
+    "images": [
+        "img/movies/thewizardofoz.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "The Wizard of Oz", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "80%"
+    }, 
+    "availability": [
+        "Frank Darabont"
+    ], 
+    "battery": { 
+        "talkTime": "Morgan Freeman, Bob Gunton", 
+        "type": "Tim Robbins"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Stephen King"
+    }, 
+    "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.", 
+    "display": { 
+        "screenSize": "Crime, Drama"
+    },  
+    "id": "theshawshankredemption", 
+    "images": [
+        "img/movies/theshawshankredemption.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "The Shawshank Redemption", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "100%"
+    }, 
+    "availability": [
+        "Orson Welles"
+    ], 
+    "battery": { 
+        "talkTime": "Joseph Cotton, Dorothy Comingore", 
+        "type": "Orson Welles"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Herman Mankiewicz"
+    }, 
+    "description": "A group of reporters are trying to decipher the last word ever spoken by Charles Foster Kane, the millionaire newspaper tycoon. The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the top of the world.", 
+    "display": { 
+        "screenSize": "Drama, Mystery"
+    },  
+    "id": "citizenkane", 
+    "images": [
+        "img/movies/citizenkane.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "Citizen Kane", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

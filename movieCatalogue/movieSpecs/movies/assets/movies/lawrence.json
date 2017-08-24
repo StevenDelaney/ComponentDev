@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "100%"
+    }, 
+    "availability": [
+        "David Lean"
+    ], 
+    "battery": { 
+        "talkTime": "Alec Guinness, Anthony Quinn", 
+        "type": "Peter O'Toole"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "Arabia"
+    }, 
+    "connectivity": { 
+        "cell": "Jake LaMotta"
+    }, 
+    "description": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sherif Ali, Lawrence rebels against the orders of his superior officer and strikes out on a daring camel journey across the harsh desert to attack a well-guarded Turkish port.", 
+    "display": { 
+        "screenSize": "Adventure, Biography, Drama"
+    },  
+    "id": "lawrenceofarabia", 
+    "images": [
+        "img/movies/lawrence.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "Lawrence of Arabia", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}

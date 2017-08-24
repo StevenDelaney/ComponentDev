@@ -1,0 +1,45 @@
+{
+    "additionalFeatures": "Link to Buy?",
+	
+    "android": {
+        "os": "100%"
+    }, 
+    "availability": [
+        "Francis Ford Coppola"
+    ], 
+    "battery": { 
+        "talkTime": "Al Pacino, James Caan", 
+        "type": "Maarlon Brando"
+    }, 
+    "camera": {
+        "features": [
+            "English"
+        ], 
+        "primary": "America"
+    }, 
+    "connectivity": { 
+        "cell": "Jake LaMotta"
+    }, 
+    "description": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.", 
+    "display": { 
+        "screenSize": "Crime, Drama"
+    },  
+    "id": "thegodfather", 
+    "images": [
+        "img/movies/thegodfather.jpg", 
+        "img/phones/dell-streak-7.1.jpg"
+    ], 
+    "name": "The Godfather", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "awards": {
+        "bafta": "16000MB", 
+        "oscars": "512MB"
+    }
+}
