@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css' ;
 import _ from 'lodash';
+import Phones from  './Data';
+import { Link } from 'react-router'; 
 
       var SelectBox = React.createClass({
           handleChange : function(e, type,value) {
@@ -31,15 +33,15 @@ import _ from 'lodash';
            });
 
      var PhoneItem = React.createClass({
-          render: function(){
-               return (
-              <li className="thumbnail phone-listing">
-                <a href={'/phones/' + this.props.phone.id} className="thumb">
-                     <img src={this.props.phone.imageUrl} 
-                     alt={this.props.phone.name} /> </a>
-                <a href={'/phones/' + this.props.phone.id}> {this.props.phone.name}</a>
-                <p>{this.props.phone.snippet}</p>
-              </li>
+      render: function(){
+           return (
+                <li className="thumbnail phone-listing">
+                  <Link to={'/phones/' + this.props.phone.id} className="thumb">
+                       <img src={"/phoneSpecs/phones/" + this.props.phone.imageUrl}
+                     alt={this.props.phone.name} /> </Link>
+                  <Link to={'/phones/' + this.props.phone.id}> {this.props.phone.name}</Link>
+                  <p>{this.props.phone.snippet}</p>
+                </li>
                 ) ;
              }
          }) ;
@@ -70,15 +72,13 @@ var PhoneCatalogueApp = React.createClass({
                  this.setState( { sort: value } ) ;
               }
       }, 
-       render: function(){
-              // console.log('Criteria: Search= ' + this.state.search + 
-                    // ' ; Sort= ' + this.state.sort);
-           var list = this.props.phones.filter(function(p) {
-                  return p.name.toLowerCase().search(
-                         this.state.search.toLowerCase() ) !== -1 ;
-                    }.bind(this) );
-           var filteredList = _.sortBy(list, this.state.sort) ;
-           return (
+        render: function(){
+               var list = Phones.filter(function(p) {
+                      return p.name.toLowerCase().search(
+                             this.state.search.toLowerCase() ) !== -1 ;
+                        }.bind(this) );  
+               var filteredList = _.sortBy(list, this.state.sort) ;
+               return (
               <div className="view-container">
               <div className="view-frame">
                  <div className="container-fluid">
