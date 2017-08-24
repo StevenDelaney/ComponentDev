@@ -1,4 +1,5 @@
   import React from 'react';
+  import './App.css' 
 
     var SelectBox = React.createClass({
       render: function(){
@@ -14,7 +15,6 @@
             );
           }
        });
-
 
         // TODO (missing component)
 
@@ -41,7 +41,16 @@
                  <div className="container-fluid">
                    <div className="row">
                        <SelectBox />
-                       {/* TODO */}
+                       {   <li class="thumbnail phone-listing">
+            <a href="phones/motorola-xoom-with-wi-fi" 
+                    class="thumb">  
+               <img 
+                 src="assets/images/phones/motorola-xoom-with-wi-fi.0.jpg"
+                 alt="Motorola XOOM\u2122 with Wi-Fi"/> </a>
+            <a href="phones/motorola-xoom-with-wi-fi"> 
+                 Motorola XOOM\u2122 with Wi-Fi </a>
+            <p>The Next, Next Generation\r\n\r\nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb).</p>
+        </li> }
                   </div> 
                   </div>                   
                 </div>
